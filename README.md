@@ -20,7 +20,7 @@
 # How to play
 1.เปิดไฟล์ project.exe
 
-2.เมื่อเปิดโปรแกรมมา จะพบกับหน้า Teaser และเข้าสู่หน้าเมนูเลือกเกม พิมพ์ 1 เพื่อ เริ่มเกม หรือ 2 เพื่อไปหน้า ออกจากเกม
+2.เมื่อเปิดโปรแกรมมา จะพบกับหน้า Teaser และเข้าสู่หน้าเมนูเลือกเกม พิมพ์ 1 เพื่อ เริ่มเกม หรือ 2 เพื่อออกจากเกม
 
 3.เลือกโหมดที่เล่น พิมพ์ 1 เพื่อเข้า normal พิมพ์ 2 เพื่อเข้า hard
 
@@ -32,11 +32,14 @@
 
 ---
 
-## Features
+## Interface
 
 
 ---
-
+# ![](screenshots/interface.JPG)
+# ![](screenshots/mode.JPG)
+# ![](screenshots/play.JPG)
+# ![](screenshots/gameover.JPG)
 ---
 
 # ![](img/Person.png) Team Members
